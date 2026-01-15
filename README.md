@@ -213,3 +213,8 @@ Sorularınız için:
 ---
 
 Made with ❤️ for CRO professionals
+
+---
+
+## 🚀 Live Platform
+Deployment in progress...
